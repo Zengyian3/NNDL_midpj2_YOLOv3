@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/szya/darknet/data/VOC/train.txt
+valid  = /home/szya/darknet/data/VOC/2007_test.txt
+names = data/voc.names
+backup = backup
+
